@@ -2,7 +2,7 @@
 
 This project serves as a data exploration into marketing search and paid media spend. Additionally, we will introduce a simple model for revenue prediction and explore methods to derive feature importance.
 
-[Robyn Predictor Decomposition](assets/weekly_predictor_decomp.png)
+![Robyn Predictor Decomposition](https://github.com/jaime-garvey/search-pm-analysis/blob/main/assets/weekly_predictor_decomp.png)
 
 ## Structure
 
