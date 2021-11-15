@@ -17,7 +17,7 @@ This project serves as a data exploration into marketing search and paid media s
 
 ## Install
 
-This project requires *Python* and the following Python libraries installed:
+This project requires **Python** and the following Python libraries installed:
 
 * [NumPy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
